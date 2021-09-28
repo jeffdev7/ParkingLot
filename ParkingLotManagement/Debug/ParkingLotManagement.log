@@ -1,0 +1,4 @@
+﻿  Car.cpp
+C:\Users\User\OneDrive\Documents\ParkingLotManagement\ParkingLotManagement\Car.cpp(67,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\User\OneDrive\Documents\ParkingLotManagement\ParkingLotManagement\Car.cpp(85,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  ParkingLotManagement.vcxproj -> C:\Users\User\OneDrive\Documents\ParkingLotManagement\Debug\ParkingLotManagement.exe
